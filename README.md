@@ -34,7 +34,7 @@ This project showcases how to build a form with the following features:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/BraveAnarchist/remct.git>
 
 2. **Install dependencies:**
     ```bash
