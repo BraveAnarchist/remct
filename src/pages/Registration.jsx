@@ -32,7 +32,7 @@ export default function Registration() {
           })}
           onSubmit={(values, { setSubmitting }) => {
             setTimeout(() => {
-              alert("Success :"+JSON.stringify(values, null, 2));
+              alert("Success :" + JSON.stringify(values, null, 2));
               // resetForm();
               setSubmitting(false);
             }, 400);

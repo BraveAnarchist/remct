@@ -1,6 +1,5 @@
 import './App.css'
 import Registration from './pages/Registration'
-import Form from './pages/Registration'
 
 function App() {
   return (
