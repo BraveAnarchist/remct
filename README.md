@@ -28,6 +28,11 @@ This project showcases how to build a form with the following features:
 - **React:** JavaScript library for building user interfaces.
 - **Formik:** Form library simplifying form handling, validation, and submission.
 - **Yup:** Schema validation library seamlessly integrated with Formik to define and enforce validation rules.
+## Difficulties
+
+- Understanding Formik's API: Initially, grasping Formik's components and how to effectively use its API for validation was a challenge. I spent time experimenting and researching to understand how to integrate Yup seamlessly for data validation.
+
+- Debugging Validation Errors: Identifying the source of validation errors and troubleshooting them required meticulous debugging and understanding the validation logic implemented using Yup.
 
 
 **Getting Started**
